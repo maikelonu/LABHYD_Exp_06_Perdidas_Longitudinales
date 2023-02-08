@@ -3,10 +3,8 @@
 # Escuela de Ingenieria en Construccion
 # https://www.tec.ac.cr
 # Session: PERDIDAS LONGITUDINALES + METODOS NUMERICOS
-
 # Eng. MSc. Maikel Mendez Morales
 # email: maikel.mendez@gmail.com mamendez@itcr.ac.cr
-# LinkedIn: https://www.linkedin.com/pub/maikel-mendez-morales/2a/738/1b9
 # Google Scholar: https://scholar.google.com/citations?hl=en&user=JnmSVFYAAAAJ
 # YouTube: https://www.youtube.com/c/MaikelMendez
 # //////////////////////////////////////////////////////////////////////////////////
