@@ -3,10 +3,16 @@
 # Escuela de Ingenieria en Construccion
 # https://www.tec.ac.cr
 # Session: PERDIDAS LONGITUDINALES + METODOS NUMERICOS
-# Eng. MSc. Maikel Mendez Morales
-# email: maikel.mendez@gmail.com mamendez@itcr.ac.cr
-# Google Scholar: https://scholar.google.com/citations?hl=en&user=JnmSVFYAAAAJ
-# YouTube: https://www.youtube.com/c/MaikelMendez
+
+# M.Sc. Eng. Maikel Mendez M
+# Water Resources + GIS + DataScience
+# Instituto Tecnologico de Costa Rica
+# https://www.tec.ac.cr
+# https://orcid.org/0000-0003-1919-141X
+# https://www.scopus.com/authid/detail.uri?authorId=51665581300
+# https://scholar.google.com/citations?user=JnmSVFYAAAAJ&hl=en
+# https://www.youtube.com/c/maikelmendez
+# https://github.com/maikelonu
 # //////////////////////////////////////////////////////////////////////////////////
 # INFO:
 # Bloomfield, V.A. Using R for Numerical Analysis in Science
@@ -21,7 +27,7 @@
 # //////////////////////////////////////////////////////////////////////////////////
 
 # Workspace is cleared
-#rm(list = ls())
+rm(list = ls())
 
 # Working directory is selected
 setwd("~/Downloads/LABHYD_Exp_06_Perdidas_Longitudinales-master")
