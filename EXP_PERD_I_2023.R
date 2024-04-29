@@ -16,7 +16,7 @@
 # //////////////////////////////////////////////////////////////////////////////////
 # INFO:
 # Bloomfield, V.A. Using R for Numerical Analysis in Science
-# and Engineering. Taylor & Francis. New York.
+# and Engineering. Taylor & Francis. New York
 # //////////////////////////////////////////////////////////////////////////////////
 # Custom_Functions_R (simples + anidadas)
 # For-Loop-R (vectores y listas)
